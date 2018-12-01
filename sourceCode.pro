@@ -81,9 +81,7 @@ clauses
 
 
 		
-  he_is(computer_Science):-         
-        positive("Do you like Mathmatical?"),
-        positive("Do you like Statistics?").		
+	
 	
 		
   
